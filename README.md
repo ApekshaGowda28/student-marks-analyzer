@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Marks Analyser
 A Simple python projects that calculates student marks,average,grade,and pass/fail status.
 ## feature
@@ -30,3 +31,4 @@ open the projects in VS Code.
 open the terminal and run:
 ```bash
 python main.py
+
